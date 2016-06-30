@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://s31.postimg.org/r7jp8ddyj/images_as_Smart_Object_1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1.text-center {
+    font-family: 'Lora', serif;
+    font-size: 75px;
+}
+
+small.small {
+    font-size: 35px;
+}
+
+#owl-demo .item img{
+    width: 100%;
+    height: auto;
+}
+
+.caption {
+    padding-right: 50px;
+    padding-left: 50px;
+    line-height: 1.7;
+    font-family: 'Lora', serif;
+    font-size: 14px;
+}
+
+h3.wiki {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+}
+
+h3.wiki a:hover {
+    text-decoration: none;
+}
+
+blockquote.blockquote {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+blockquote p {
+    font-size: 26px;
+    font-family: 'Lora', serif;
+}
+
+blockquote footer {
+    font-size: 18px;
+    font-family: 'Lora', serif;
+}
+
+footer.text-center {
+    font-family: 'Lora', serif;
+}
